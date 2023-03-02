@@ -10,5 +10,5 @@ export class EnvironmentsComponent {
 }
 export const environment = {
   production: false,
-  oauthToken: "Bearer BQDdElcw9wp8HR9I1ApiiPvXHLSQcWwqHN32XPMxpAf6PV2KhO-I-s7Yw9yaO0le_8d2D_T-jRpWB_7NgFr3X56rh32RVqot3hW8z_AT9U-MODppASR056EWZXbdMGm7Pi9xULEvEmXnT6CrlRuTiGZ3CiVJO5YgNBCqVpo-hPeuRmjFkVPoa5FYYCwjyYlW1trc"
+  oauthToken: "Bearer BQDfxs2x43s0qnoryEH5BJItmTVyTsSYd3etxBlcSeSEDiUqD4JfNfJf-7CanHPJ2n9yCE0Ha5dTOnCZGgAc0iuImMICXqN5WzkKU_qH8LnZAh-vJ1BTnxFrD5C5IRVzcKOzB62vF4AC_eAilMYL7LmQNeMv70FhNBuIWNLdAInuO0D_Yt4CzgCyWp6uJ6bX-OsC"
 };
