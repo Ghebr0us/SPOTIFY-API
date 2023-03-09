@@ -1,1 +1,12 @@
-<p>album works!</p>
+<div *ngIf="album">
+    <h1>{{ album.name }}</h1>
+    <p>
+        <img src="{{ album.images[1].url }}">
+    </p>
+
+    <div *ngFor="let track of album.tracks.items">
+        <a [routerLink]="['/tracks', track.id]">
+            {{ track.name}}
+          </a>
+    </div>
+</div>
